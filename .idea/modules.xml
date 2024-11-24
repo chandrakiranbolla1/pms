@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/.idea/APIGATEWAY.iml" filepath="$PROJECT_DIR$/.idea/APIGATEWAY.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/.idea/Appointment_service.iml" filepath="$PROJECT_DIR$/.idea/Appointment_service.iml" />
->>>>>>> 51f4ad8 (appointment_service)
+      <module fileurl="file://$PROJECT_DIR$/.idea/Config-repo.iml" filepath="$PROJECT_DIR$/.idea/Config-repo.iml" />
     </modules>
   </component>
 </project>
