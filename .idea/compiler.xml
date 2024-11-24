@@ -6,13 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+<<<<<<< HEAD
         <module name="APIGATEWAY" />
+=======
+        <module name="Appointment_service" />
+>>>>>>> 51f4ad8 (appointment_service)
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+<<<<<<< HEAD
       <module name="APIGATEWAY" options="-parameters" />
+=======
+      <module name="Appointment_service" options="-parameters" />
+>>>>>>> 51f4ad8 (appointment_service)
     </option>
   </component>
 </project>
